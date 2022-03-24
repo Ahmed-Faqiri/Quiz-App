@@ -1,4 +1,4 @@
-Quiz app for practice
+Cross-platform quiz app for practice
 
 Technologies:
 
